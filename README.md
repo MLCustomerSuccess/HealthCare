@@ -1,3 +1,3 @@
 # HealthCare
-ML customer success team's sample codes for health care projects can be found in this repo
+ML customer success team's health care projects are maintained here.
 ## WBCancer Demo
